@@ -12,11 +12,7 @@ This is a **"Simon Says"** memory game built using **JavaScript**, **HTML**, and
 ---
 
 ## 📁 Project Structure
-simon_says-miniproject/
-│
-├── index.html # HTML structure for the game interface
-├── mini-project.css # Styling for buttons and layout
-└── mini-project.js # Game logic using JavaScript
+<img width="501" height="173" alt="image" src="https://github.com/user-attachments/assets/316f74d1-5a21-4886-8a85-6d6dca2ef963" />
 
 
 ---
